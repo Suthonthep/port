@@ -1,8 +1,17 @@
 [
-    {
-
-    },
-    {
-        
-    }
+  {
+    "img": "linkimg",
+    "Name": "Evangelion",
+    "Faccharactor": "Shinji"
+  },
+  {
+    "img": "linkimg",
+    "Name": "Naruto",
+    "Faccharactor": "Minato"
+  },
+  {
+    "img" : "linkimg",
+    "Name" : "AOT",
+    "Faccharactor" : "Mikasa"
+  }
 ]
