@@ -45,3 +45,5 @@ if (but3) {
     but3.style.background = "white"
   })
 }
+
+fetch("./data/anime.json")
