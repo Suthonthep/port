@@ -1,17 +1,17 @@
 [
   {
-    "img": "linkimg",
+    "img": "./img/evangelion.jpg",
     "Name": "Evangelion",
-    "Faccharactor": "Shinji"
+    "Favcharactor": "Shinji"
   },
   {
-    "img": "linkimg",
+    "img": "./img/download.jpg", 
     "Name": "Naruto",
-    "Faccharactor": "Minato"
+    "Favcharactor": "Minato"
   },
   {
-    "img" : "linkimg",
+    "img" : "./img/Attack On Titan.jpg",
     "Name" : "AOT",
-    "Faccharactor" : "Mikasa"
+    "Favcharactor" : "Mikasa"
   }
 ]
